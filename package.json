@@ -1,0 +1,28 @@
+{
+  "name": "xp-anagram-detection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage --verbose",
+    "test:watch": "jest --watchAll --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumorroni/XP-Anagram-Detection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jumorroni/XP-Anagram-Detection/issues"
+  },
+  "homepage": "https://github.com/jumorroni/XP-Anagram-Detection#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
