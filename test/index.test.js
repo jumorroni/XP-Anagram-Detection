@@ -1,3 +1,8 @@
-const { describe } = require("../src/index");
+const { isAnagram } = require("../src/index");
 
-describe
+describe('Testing if is an anagram', () => {
+    test('Should return true if there is a string', () => {
+        expect(isAnagram('foefet')).toBe(true);
+    });
+
+});

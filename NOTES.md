@@ -14,10 +14,18 @@ EXAMPLES:
 "Buckethead" is an anagram of "DeathCubeK"
 
 DOMAIN:
-
+- Function that return true(if anagram) ou false(if isn't anagram)
+- Anagram is a string
+- It is an anagram if rearranging the letters, produce a new one
 
 
 POMODORO 1: Driver: Juliana
 - Create project ✅ 
-- Make DOMAIN 
-- Understand the problem 
+- Make DOMAIN ✅ 
+- Understand the problem ✅ 
+
+- Create test "Should return true if there is a string" ✅ 
+- Make test fail ✅ 
+- Create prod code ✅ 
+- Make test pass ✅ 
+- Commit 
