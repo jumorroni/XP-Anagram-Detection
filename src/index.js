@@ -1,10 +1,10 @@
 function isAnagram() {
 
-    let word = 'foefet';
+    let word1 = 'foefet';
+    let word2 = 'toffee'
 
-    if (word) {
-        return true;
-    }
+    if (word1.length == word2.length)
+        return true
 };
 
 module.exports = {

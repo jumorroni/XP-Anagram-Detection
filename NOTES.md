@@ -24,8 +24,17 @@ POMODORO 1: Driver: Juliana
 - Make DOMAIN ✅ 
 - Understand the problem ✅ 
 
-- Create test "Should return true if there is a string" ✅ 
+- Create test "Should return true if 'foefet' is a string" ✅ 
+- Make test fail ✅ 
+- Create prod code ✅ 
+- Make test pass ✅ 
+- Commit ✅
+
+POMODORO 2: Driver: Juliana
+- Create next test "Should return true if 'foefet' length is equal to 'toffee'"
 - Make test fail ✅ 
 - Create prod code ✅ 
 - Make test pass ✅ 
 - Commit 
+- Refactor prod
+- Create next test "Should return true if 'foefet' length is not equal to 'toffee'"
