@@ -31,10 +31,14 @@ POMODORO 1: Driver: Juliana
 - Commit ✅
 
 POMODORO 2: Driver: Juliana
-- Create next test "Should return true if 'foefet' length is equal to 'toffee'"
+- Create next test "Should return false if 'foefet' length is not equal to 'toffee'"
+- Make test fail ✅ 
+- Create prod code ✅ 
+- Make test pass ✅ 
+- Commit ✅
+- Refactor prod ✅
+- Create next test "Should return false if 'foefet' length is equal to 'toffee'" ✅
 - Make test fail ✅ 
 - Create prod code ✅ 
 - Make test pass ✅ 
 - Commit 
-- Refactor prod
-- Create next test "Should return true if 'foefet' length is not equal to 'toffee'"

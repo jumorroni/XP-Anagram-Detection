@@ -1,11 +1,14 @@
-function isAnagram() {
+function isAnagram(string1, string2) {
 
-    let word1 = 'foefet';
-    let word2 = 'toffee'
+    if (string1.length !== string2.length) {
+        return false
+    }
 
-    if (word1.length == word2.length)
-        return true
+    return string1.split("").sort().join("") === string2.split("").sort().join("");
+
 };
+
+
 
 module.exports = {
     isAnagram
